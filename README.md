@@ -38,13 +38,13 @@ I love building simple open-source projects, learning new things, and sharing kn
 If you’d like to support my work in building open-source projects and educational content:  
 
 - **USDT (BSC20):** `0xA283575f01Fd44f815cec944899ab25c0c1541fC`  
-![USDT QR](img/usdt-qr.png)  
+![USDT QR](img/usdt-qr.jpg)  
 
 - **Ethereum:** `0xA283575f01Fd44f815cec944899ab25c0c1541fC`  
-![ETH QR](img/eth-qr.png)  
+![ETH QR](img/eth-qr.jpg)  
 
 - **BTC:** `bc1qau6qkfqv6c3h45yuswtz8hcj2qsr3r2u6s6pt8`  
-![BTC QR](img/btc-qr.png)  
+![BTC QR](img/btc-qr.jpg)  
 
 🙏 Thank you so much for your support!  
 
