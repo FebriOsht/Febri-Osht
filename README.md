@@ -99,7 +99,7 @@ If you find my open-source projects or educational content helpful, consider sup
 
 | Currency | Address | QR Code |
 | :--- | :--- | :--- |
-| **USDT (BEP20)** | `0xA283575f01Fd44f815cec944899ab25c0c1541fC` | <img src="qr/usdt-qr.jepg" width="100"> |
+| **USDT (BEP20)** | `0xA283575f01Fd44f815cec944899ab25c0c1541fC` | <img src="qr/usdt-qr.jpeg" width="100"> |
 | **Ethereum** | `0xA283575f01Fd44f815cec944899ab25c0c1541fC` | <img src="qr/eth-qr.jpeg" width="100"> |
 | **Bitcoin** | `bc1qau6qkfqv6c3h45yuswtz8hcj2qsr3r2u6s6pt8` | <img src="qr/btc-qr.jpeg" width="100"> |
 
