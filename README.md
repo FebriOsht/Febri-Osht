@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm Febriansyah
+# 👨‍💻 Hi there, I'm Febri Osht
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+Developer;Blockchain+Enthusiast;AI+Prompt+Engineer;Mobile+Programming+Specialist" alt="Typing SVG" />
@@ -54,7 +54,7 @@ Currently, I am deeply focused on **Generative AI** and **Prompt Engineering**, 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FebriOsht&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="FebriOsht's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FebriOsht&show_icons=true&theme=tokyonight&hide_border=true" alt="FebriOsht's Github Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebriOsht&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
